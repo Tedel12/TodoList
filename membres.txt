@@ -1,0 +1,4 @@
+** Auteurs / Membres et Contributions**
+
+- AGBANNON Ben Ephraïm: Développement, mise en place du projet, génération et extraction de l'APK
+- APLOGAN DJIBODE Regina: Conception de l'application, logique des composants et choix du design.
