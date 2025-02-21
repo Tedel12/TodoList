@@ -1,7 +1,7 @@
 import React from 'react';
 import { SafeAreaView, View } from 'react-native';
 import TodoList from './src/components/TodoList';
-import { styles } from '../TodoApp/src/components/styles'; // Importation du fichier styles.js
+import { styles } from './src/components/styles'; // Importation du fichier styles.js
 
 const App = () => {
   return (
